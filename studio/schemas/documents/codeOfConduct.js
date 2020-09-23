@@ -8,7 +8,7 @@ export default {
       name: 'body',
       description:
         'A code of conduct is one of several things that helps you to make sure that all participants will have a great time!',
-      type: 'bodyPortableText',
+      type: 'text',
       title: 'Code of Conduct'
     }
   ],
